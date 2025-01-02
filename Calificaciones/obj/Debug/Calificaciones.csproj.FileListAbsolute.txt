@@ -1,0 +1,10 @@
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csprojResolveAssemblyReference.cache
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Form1.resources
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Properties.Resources.resources
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.GenerateResource.Cache
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb
+c:\users\byron\documents\visual studio 2013\Projects\Calificaciones\Calificaciones\obj\Debug\Calificaciones.Consulta.resources
