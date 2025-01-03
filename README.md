@@ -27,7 +27,7 @@ Clonamos el proyecto
 
 ## 📲 Descargar archivo 
 
-Puedes descargar el archivo APK desde el siguiente enlace:  
+Puedes descargar el archivo EXE desde el siguiente enlace:  
 [Calificaciones.exe](https://drive.google.com/file/d/1TEET87qD_M2ANulqO9oHBvsibuFEUbtV/view?usp=sharing)
 ```
 
